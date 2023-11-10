@@ -13,7 +13,7 @@ O singleton, é um padrão de projeto criacional, que garante que exista apenas 
 <p>-Deve existir um método público e estático que retorne a instância</p>
 <p>-O tipo da instancia deve ser 'private static'</p>
 
-#Tipos de inicialização:
+# Tipos de inicialização:
 
 <p>-Eager</p>
 <p>-Lazy</p>
