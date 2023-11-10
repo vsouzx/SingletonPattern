@@ -9,13 +9,13 @@ O singleton, é um padrão de projeto criacional, que garante que exista apenas 
 
 # Como implementar:
 
--Construtor deve ser privado
--Deve existir um método público e estático que retorne a instância
--O tipo da instancia deve ser 'private static'
+<p>-Construtor deve ser privado</p>
+<p>-Deve existir um método público e estático que retorne a instância</p>
+<p>-O tipo da instancia deve ser 'private static'</p>
 
 #Tipos de inicialização:
 
--Eager
--Lazy
--Thread safe method
--Thread safe block
+<p>-Eager</p>
+<p>-Lazy</p>
+<p>-Thread safe method</p>
+<p>-Thread safe block</p>
